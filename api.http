@@ -2,7 +2,7 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title":"NLW UNITE",
+  "title":"Anápoli a cidade Jair Júnior",
   "details":"Maior evento online de programação do Brasil.",
-  "maximumAttendees": 5000
+  "maximumAttendees": 5
 }
