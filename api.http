@@ -3,6 +3,6 @@ Content-Type: application/json
 
 {
   "title":"NLW UNITE",
-  "details":"Maior essvento de programação do Brasil.",
+  "details":"Maior evento online de programação do Brasil.",
   "maximumAttendees": 5000
 }

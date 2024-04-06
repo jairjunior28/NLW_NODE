@@ -22,11 +22,11 @@ app.post("/events", async (request, reply) => {
       title: data.title,
       details: data.details,
       maximumAttendees: 5000,
-      slug: "1321564f56s6df5",
+      slug: "1321564f56sfdfdbn6df5",
     },
   });
   console.log(request.body);
-  return { eventId: event.id };
+  return reply.status(201).send({ eventId: event.id });
 });
 app.listen({ port: 3333 }).then(() => {
   console.log("Server On-Line PORTA 3333");
