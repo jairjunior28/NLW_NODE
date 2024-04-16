@@ -2,7 +2,7 @@ POST http://localhost:3333/events
 Content-Type: application/json
 
 {
-  "title":"Anápoli a cidade Jair Júnior",
-  "details":"Maior evento online de programação do Brasil.",
+  "title":"Anápoli a ffcidade Jair Júnior",
+  "details":"Maior efvento online de programação do Brasil.",
   "maximumAttendees": 5
 }
